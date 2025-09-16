@@ -1,1 +1,5 @@
-
+{
+  "Bitcoin": "BTC",
+  "Litecoin": "LTC",
+  "Monero": "XMR"
+}
