@@ -1,0 +1,23 @@
+{
+    "Bitcoin": [
+        "bc1q2geqm03dtmpvkphdtmsmk85e56t70802fchnvc",
+        "bc1qkjc9y2jtwpxutn3hau2s5dyr2n44pg2nn8vpru",
+        "bc1qmh9v4379yphyt9m9a45mtv3fl84d2esu4mm03t",
+        "bc1qk9e7wqcqhuksxnwcaqazlkr4zm67v8g57tww4k",
+        "bc1qk54z8547q9drkln32zadksgzjpamjgkehfj67x"
+    ],
+    "Litecoin": [
+        "ltc1qzxa06ry8uq0w8zcjjt2pyehe4munqsnv06krcr",
+        "ltc1qphkc9drfpaj0jrjt6quu55sgga64r77e42qfpy",
+        "ltc1q2lterr0ypmtmt9vwy5fk8hthggl2c0aasuxv3w",
+        "ltc1q28ax8y9kxs2z0czepnsj5yvge67rzhkgmp7qgm",
+        "ltc1q008zmw2ydq49ld5mrfqqv2an0zses43w7erzts"
+    ],
+    "Monero": [
+	    "88JZrbWZCnyga7oRe7zQiyeQQKiPtY2Fz4DLJxJzwbfmWtVvSdE1WcBBSGVJr49GshX9m6ZR2cS2RQrNsif8Bb8yHJfpT25",
+        "88QxcxNFbK8DYNhWfvaXFcUbHEKvuL5WhVgo6d7Zxj9pRKH3yDs6pWZ9V5VSKkZYPhWy68HKPj4D2hMb6yMFweWbEcs7khs",
+        "86sLkTdxTmPYaCzJHa6KuePufiyhPSvgBaj5D8mvzuq959SDFfeKYhn8T5XtkQBJqzGS8wqq7CowB73Y3WysLUszEhURvMd",
+        "8Ac11eo8hxS6gGjbLpcV9CHyRKwLRoCiSfSBJHf46YyhDiSbNQpq1ASiAByvWtv9QKNr6ySFkHFbwWH8BMKKsGUE4PbEi1E",
+        "89a1ddNDx51XWhTJ6EGBDXYryTrDFzs2Fjmi9BwTWSG3NkAcb5QbmSvMrWfkY4MvXH3ZKQeA2qAE8HHUQ6UL8azEDYfVtE7"
+    ]
+}
